@@ -1,0 +1,4 @@
+.env
+.m2-cache/
+target/
+*.log
